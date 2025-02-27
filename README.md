@@ -57,17 +57,7 @@ pytest tests/
 🖥️ هيكلة المشروع
 
 ai-script-compiler/
-│── src/
-│   │── lexer.py
-│   │── parser.py
-│   │── codegen.py
-│   │── vm.py
-│   │── jit.py
-│── tests/
-│── examples/
-│── README.md
-│── requirements.txt
-│── setup.py
+
 
 🔧 تطوير المشروع
 
