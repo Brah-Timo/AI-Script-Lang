@@ -25,7 +25,7 @@ AI-Script هي لغة برمجة مخصصة لتحويل الصور إلى في�
 
 ## 📦 التثبيت
 ```bash
-git clone https://github.com/yourusername/ai_video_language.git
+git clone https://github.com/Brah-Timo/ai_video_lang.git
 cd ai_video_language
 pip install -r requirements.txt
 
