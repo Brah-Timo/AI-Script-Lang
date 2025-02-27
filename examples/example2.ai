@@ -1,0 +1,12 @@
+let a = 5;
+let b = 10;
+
+if (a < b) {
+    print("a is smaller");
+} else {
+    print("b is smaller");
+}
+
+for (let i = 0; i < 5; i = i + 1) {
+    print(i);
+}

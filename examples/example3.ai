@@ -1,0 +1,8 @@
+# Load an image
+image = load("input.jpg")
+
+# Apply AI-powered motion generation
+video = ai.motion(image, duration=5, fps=30)
+
+# Save the generated video
+save(video, "output.mp4")

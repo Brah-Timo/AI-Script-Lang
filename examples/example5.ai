@@ -1,0 +1,13 @@
+from vm import VirtualMachine
+
+# تعريف برنامج بسيط بلغة الـ Bytecode
+bytecode = [
+    ("PUSH", 10),
+    ("PUSH", 20),
+    ("ADD",),
+    ("PRINT",)
+]
+
+vm = VirtualMachine()
+result = vm.execute(bytecode)
+print(f"Result: {result}")  # الناتج يجب أن يكون 30
