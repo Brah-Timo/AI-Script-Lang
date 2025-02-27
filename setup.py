@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 setup(
     name="ai-script-compiler",
     version="1.1.0",
-    author="Your Name",
+    author="Brah-Timo",
     author_email="your.email@example.com",
     description="A high-performance AI-powered script compiler for image-to-video conversion.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ai-script-compiler",
+    url="https://github.com/Brah-Timo/AI-Script-Lang",
     packages=find_packages(),
     install_requires=[
         "llvmlite>=0.42.0",
